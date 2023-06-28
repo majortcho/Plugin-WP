@@ -1,0 +1,10 @@
+{
+    "name": "thomas/member-thomas",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Thomas\\MemberThomas\\": "src/"
+        }
+    },
+    "require": {}
+}
